@@ -1,0 +1,19 @@
+{
+  "name": "nodestudy",
+  "version": "1.0.0",
+  "description": "node study project",
+  "main": "testService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Udayks/nodeStudy.git"
+  },
+  "author": "Udayan K S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Udayks/nodeStudy/issues"
+  },
+  "homepage": "https://github.com/Udayks/nodeStudy#readme"
+}
