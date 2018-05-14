@@ -12,6 +12,13 @@
   },
   "author": "Udayan K S",
   "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*",
+    "node-uuid": "*",
+    "uuid": "*"
+  },
   "bugs": {
     "url": "https://github.com/Udayks/nodeStudy/issues"
   },
